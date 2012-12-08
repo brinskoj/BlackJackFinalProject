@@ -1,0 +1,32 @@
+﻿Build started 12/7/2012 6:09:52 PM.
+     1>Project "C:\Users\tripgod\Documents\cplusplus\working\JohnnysBlackJack.FinalProject.1206.latenight\JohnnysBlackJack\JohnnysBlackJack.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\JohnnysBlackJack.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\JohnnysBlackJack.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt JohnnysBlackJack.cpp /clr:nostdlib 
+         JohnnysBlackJack.cpp
+         All outputs are up-to-date.
+       CoreResGen:
+         All outputs are up-to-date.
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\tripgod\Documents\cplusplus\working\JohnnysBlackJack.FinalProject.1206.latenight\Debug\JohnnysBlackJack.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\JohnnysBlackJack.Form1.resources /MANIFEST /ManifestFile:"Debug\JohnnysBlackJack.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\tripgod\Documents\cplusplus\working\JohnnysBlackJack.FinalProject.1206.latenight\Debug\JohnnysBlackJack.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\app.res
+         Debug\AssemblyInfo.obj
+         Debug\JohnnysBlackJack.obj
+         Debug\stdafx.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         JohnnysBlackJack.vcxproj -> C:\Users\tripgod\Documents\cplusplus\working\JohnnysBlackJack.FinalProject.1206.latenight\Debug\JohnnysBlackJack.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\tripgod\Documents\cplusplus\working\JohnnysBlackJack.FinalProject.1206.latenight\Debug\JohnnysBlackJack.exe;#1" /manifest Debug\JohnnysBlackJack.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\JohnnysBlackJack.unsuccessfulbuild".
+         Touching "Debug\JohnnysBlackJack.lastbuildstate".
+     1>Done Building Project "C:\Users\tripgod\Documents\cplusplus\working\JohnnysBlackJack.FinalProject.1206.latenight\JohnnysBlackJack\JohnnysBlackJack.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.10
